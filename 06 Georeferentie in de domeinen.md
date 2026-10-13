@@ -27,7 +27,7 @@ objecten wordt bepaald door bestaande infrastructuur, terreincondities en wettel
 
 Binnen infraprojecten wordt gewerkt met RD-coördinaten ten opzichte van NAP. Dit maakt directe aansluiting op bestaande infrastructuur en GEO mogelijk. Bestaande objecten en terreinpunten worden door landmeters ingemeten met GNSS- of tachymetrische metingen. GNSS-metingen worden daarbij eerst bepaald in een geodetisch referentiestelsel (zoals ETRS89) en vervolgens via officiële transformaties omgerekend naar RD- en NAP-coördinaten. Op basis van deze gegevens wordt het ontwerp opgesteld.
 
-Ook andere geometrische projectinformatie wordt doorgaans in RD aangeleverd. Het RD-stelsel vormt daardoor de logische standaard voor gegevensuitwisseling en ontwerp binnen infraprojecten.
+Ook andere geometrische projectinformatie zoals utiliteits netwerken (KLIC) en systemgrenzen wordt doorgaans in RD aangeleverd. Het RD-stelsel vormt daardoor de logische standaard voor gegevensuitwisseling en ontwerp binnen infraprojecten.
 
 Het ontwerp wordt uitgewerkt in een geprojecteerd coördinatenreferentiesysteem (CRS), waarbij op tekeningen RD-coördinaten en NAP-hoogten worden vermeld om objectlocaties eenduidig vast te leggen. Op de bouwplaats worden ontwerpen uitgezet met meetapparatuur die is georiënteerd op bekende RD-grondslagpunten. Hierdoor kunnen ontwerpcoördinaten rechtstreeks in het veld worden gerealiseerd met de vereiste nauwkeurigheid.
 
